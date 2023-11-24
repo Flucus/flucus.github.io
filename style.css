@@ -1,6 +1,6 @@
 body {
-  background-color: #ffffff;
-  font-family: "Prata", serif;
+  background-color: #000000;
+  font-family: serif;
   color: #333333;
   font-size: 15px;
   overflow-x: hidden;
@@ -33,7 +33,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Open Sans", sans-serif;
+  font-family: sans-serif;
 }
 
 h2 {
@@ -48,8 +48,8 @@ img {
 }
 
 .mu-readmore-btn {
-  background-color: #fff;
-  font-family: "Open Sans", sans-serif;
+  background-color: #000;
+  font-family: sans-serif;
   display: inline-block;
   font-size: 16px;
   padding: 15px 35px;
@@ -148,7 +148,7 @@ img {
 }
 
 .mu-main-navbar .mu-main-nav {
-  font-family: "Open Sans", sans-serif;
+  font-family: sans-serif;
 }
 
 .mu-main-navbar .mu-main-nav li a {
@@ -206,11 +206,11 @@ img {
 
 .scrollToTop {
   bottom: 60px;
-  color: #fff;
+  color: #000000;
   display: none;
   font-size: 17px;
   line-height: 22px;
-  font-family: "Open Sans", sans-serif;
+  font-family: sans-serif;
   padding: 5px 0;
   position: fixed;
   right: 20px;
@@ -311,7 +311,7 @@ img {
 }
 
 #mu-slider .mu-slider-area .mu-top-slider .mu-top-slider-single .mu-top-slider-content .mu-slider-small-title {
-  font-family: "Tangerine", cursive;
+  font-family: cursive;
   font-size: 100px;
   font-weight: 400;
   line-height: 40px;
@@ -384,6 +384,7 @@ img {
 
 
 #mu-about-us {
+  color: #FFF;
   display: inline;
   float: left;
   width: 100%;
@@ -442,7 +443,7 @@ img {
 
 .mu-title .mu-subtitle {
   font-size: 50px;
-  font-family: "Tangerine", cursive;
+  font-family: cursive;
   line-height: 30px;
 }
 
@@ -525,7 +526,7 @@ img {
 }
 
 #mu-counter .mu-counter-overlay .mu-counter-area .mu-counter-nav li .mu-single-counter span {
-  font-family: "Tangerine", cursive;
+  font-family: cursive;
   font-size: 40px;
 }
 
@@ -538,7 +539,7 @@ img {
 }
 
 #mu-counter .mu-counter-overlay .mu-counter-area .mu-counter-nav li .mu-single-counter h3 span {
-  font-family: "Open Sans", sans-serif;
+  font-family: sans-serif;
   font-size: 50px;
   font-weight: bold;
   line-height: 40px;
@@ -588,7 +589,7 @@ img {
 }
 
 #mu-restaurant-menu .mu-restaurant-menu-area .mu-restaurant-menu-content .mu-restaurant-menu li a {
-  font-family: "Open Sans", sans-serif;
+  font-family: sans-serif;
   font-size: 18px;
   border-radius: 0;
   color: #fff;
@@ -868,7 +869,7 @@ img {
   color: #555;
   cursor: pointer;
   display: inline-block;
-  font-family: "Open Sans", sans-serif;
+  font-family: sans-serif;
   font-size: 14px;
   margin: 0 13px;
   padding: 10px 15px;
@@ -1101,7 +1102,7 @@ img {
   display: inline-block;
   font-size: 18px;
   font-weight: bold;
-  font-family: "Open Sans", sans-serif;
+  font-family: sans-serif;
   letter-spacing: 1px;
   margin-bottom: 0;
   min-width: 175px;
@@ -1441,7 +1442,7 @@ img {
 #mu-contact .mu-contact-area .mu-contact-content .mu-contact-left {
   display: inline;
   float: left;
-  font-family: "Open Sans", sans-serif;
+  font-family: sans-serif;
   width: 100%;
 }
 
@@ -2197,7 +2198,7 @@ img {
 }
 
 #mu-footer .mu-footer-area .mu-footer-copyright p {
-  font-family: "Open Sans", sans-serif;
+  font-family: sans-serif;
   font-size: 16px;
   letter-spacing: 0.5px;
   color: #fff;
