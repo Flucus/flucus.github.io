@@ -9,7 +9,7 @@ I am Oscar HO. My technical proficiency includes:
 - **Database Management:** Capable with SQL databases.
 - **Networking:** Skilled in setting up networks with OpenWrt, managing DNS servers, and implementing CDN with ddns.
 - **Office Suite:** Well-versed in Microsoft Office applications including Word, Excel, PowerPoint, and Access.
-- **Typing Speed:** Comfortably typing at 50-60 wpm in English and 30 wpm in Chinese.
+- **Typing Speed:** Comfortably typing at 50~60 wpm in English and 30 wpm in Chinese.
 - **Languages:** Fluent in English and Chinese Traditional (Cantonese).
 
 I am passionate about connecting with people from diverse cultures and backgrounds.
