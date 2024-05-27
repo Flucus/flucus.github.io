@@ -1,35 +1,34 @@
-# Welcome to My GitHub Page!
+# Welcome to My Personal Website
 
 ## About Me
 
-I am Oscar HO. My technical proficiency includes:
+Hello! I am Oscar HO, a Software Engineering student with a passion for technology and innovation. My academic and practical experiences have equipped me with a diverse skill set in programming, web development, server management, and more.
 
-- **Programming Languages:** Proficient in Java, Python, C#, HTML, CSS, and JavaScript.
-- **Server Management:** Experienced with Linux (Debian) on Raspberry Pi.
-- **Database Management:** Capable with SQL databases.
-- **Networking:** Skilled in setting up networks with OpenWrt, managing DNS servers, and implementing CDN with ddns.
-- **Office Suite:** Well-versed in Microsoft Office applications including Word, Excel, PowerPoint, and Access.
-- **Typing Speed:** Comfortably typing at 50~60 wpm in English and 30 wpm in Chinese.
-- **Languages:** Fluent in English and Chinese Traditional (Cantonese).
+### Technical Skills
 
-I am passionate about connecting with people from diverse cultures and backgrounds.
+- **Programming Languages:** Proficient in Java, Python, and C#.
+- **Web Development:** Skilled in HTML, CSS, and JavaScript.
+- **Server Management:** Experienced with Linux on Raspberry Pi.
+- **Database Management:** Proficient with SQL databases.
+- **Networking:** Knowledgeable in network configuration with Cloudflare.
+- **Office Suite:** Proficient in Microsoft Office applications including Word, Excel, PowerPoint, and Access.
+- **Typing Speed:** Comfortable typing at 50-60 wpm in English and 30 wpm in Traditional Chinese (Cantonese).
+- **Languages:** Fluent in English and Traditional Chinese (Cantonese).
 
-## Connect with Me
+### Personal Interests
 
-Feel free to reach out or follow me on:
+Beyond my academic pursuits, I am deeply passionate about exploring new technological realms. I love working on personal projects with Raspberry Pi, which allows me to apply my knowledge practically and continuously learn new skills. Additionally, I play the piano and have achieved ABRSM Grade 7 in Piano.
 
-- [Twitter](https://twitter.com/Flucus0929)
+### Connect with Me
+
+I am always eager to connect with like-minded individuals and collaborate on exciting projects. Feel free to reach out or follow me on:
+
+- [X](https://x.com/Flucus0929)
 - [Instagram](https://www.instagram.com/flucus.idv.hk/)
 - [Facebook](https://www.facebook.com/flucus0929)
 - [GitHub](https://github.com/Flucus)
 - [YouTube](https://www.youtube.com/channel/UCDPqwAfdIp-YyGrNL7T4n6g)
 
-## Thank You!
-
-Thank you for visiting my GitHub.
-
----
-
-For more details about my work and me, please visit my [website](http://flucus.github.io).
+Thank you for visiting my website. For more details about my work and me, please explore the rest of my site.
 
 Oscar
