@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I am Oscar HO, a Software Engineering student with a passion for technology and innovation. My academic and practical experiences have equipped me with a diverse skill set in programming, web development, server management, and more.
+Hello! I am Oscar HO, a Computer Science student with a passion for technology and innovation. My academic and practical experiences have equipped me with a diverse skill set in programming, web development, server management, and more.
 
 ### Technical Skills
 
